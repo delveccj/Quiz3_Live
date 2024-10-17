@@ -1,7 +1,5 @@
 # Quiz3 Live
 
-# CSC395 Quiz 3!
-
 ## Instructions
 
 ### Prep Steps
